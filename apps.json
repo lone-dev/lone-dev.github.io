@@ -12,6 +12,13 @@
         "link":"https://play.google.com/store/apps/details?id=mm.lonedev.kimochi",
         "icon":"https://raw.githubusercontent.com/lone-dev/lone-dev.github.io/main/images/2.jpg",
         "cover":"https://raw.githubusercontent.com/lone-dev/lone-dev.github.io/main/images/2_cover.jpg"
+    },
+ {
+        "lable":"Live 2D/3D",
+        "id":"mm.lonedev.live2d",
+        "link":"https://play.google.com/store/apps/details?id=mm.lonedev.live2d",
+        "icon":"https://raw.githubusercontent.com/lone-dev/lone-dev.github.io/main/images/3.png",
+        "cover":"https://raw.githubusercontent.com/lone-dev/lone-dev.github.io/main/images/3_cover.png"
     }
  
 ]
