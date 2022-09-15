@@ -1,15 +1,15 @@
 [
     {
-        "lable":"ဖူးကား",
-        "id":"x.mm.downloader",
-        "link":"https://play.google.com/store/apps/details?id=x.mm.downloader",
+        "lable":"အောကား",
+        "id":"mm.lonedev.allkar",
+        "link":"https://play.google.com/store/apps/details?id=mm.lonedev.allkar",
         "icon":"https://raw.githubusercontent.com/lone-dev/lone-dev.github.io/main/images/1.png",
         "cover":"https://raw.githubusercontent.com/lone-dev/lone-dev.github.io/main/images/1_cover.jpg"
     },
         {
-        "lable":"ကီမုချိ",
-        "id":"mm.lonedev.kimochi",
-        "link":"https://play.google.com/store/apps/details?id=mm.lonedev.kimochi",
+        "lable":"အပြာကား",
+        "id":"mm.lonedev.blue",
+        "link":"https://play.google.com/store/apps/details?id=mm.lonedev.blue",
         "icon":"https://raw.githubusercontent.com/lone-dev/lone-dev.github.io/main/images/2.jpg",
         "cover":"https://raw.githubusercontent.com/lone-dev/lone-dev.github.io/main/images/2_cover.jpg"
     },
