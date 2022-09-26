@@ -1,18 +1,4 @@
 [
-    {
-        "lable":"အောကား",
-        "id":"mm.lonedev.allkar",
-        "link":"https://play.google.com/store/apps/details?id=mm.lonedev.allkar",
-        "icon":"https://raw.githubusercontent.com/lone-dev/lone-dev.github.io/main/images/1.png",
-        "cover":"https://raw.githubusercontent.com/lone-dev/lone-dev.github.io/main/images/1_cover.jpg"
-    },
-        {
-        "lable":"အပြာကား",
-        "id":"mm.lonedev.blue",
-        "link":"https://play.google.com/store/apps/details?id=mm.lonedev.blue",
-        "icon":"https://raw.githubusercontent.com/lone-dev/lone-dev.github.io/main/images/2.png",
-        "cover":"https://raw.githubusercontent.com/lone-dev/lone-dev.github.io/main/images/2_cover.jpg"
-    },
  {
         "lable":"Live 2D/3D",
         "id":"mm.lonedev.live2d",
