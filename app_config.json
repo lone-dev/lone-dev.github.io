@@ -7,9 +7,9 @@
     },
     {
         "id": "x.mm.downloader2",
-        "message": "",
-        "password": "",
-        "build_number":"1"
+        "message": "password 123",
+        "password": "123",
+        "build_number":"2"
     },
     {
         "id": "mm.lonedev.vplayer",
