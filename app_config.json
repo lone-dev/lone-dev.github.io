@@ -3,12 +3,12 @@
         "id": "x.mm.downloader",
         "message": "vpn ကိုအသုံးပြုပါ။ လျှို့ဝှက်နံပါတ် ၁၂၃",
         "password": "123",
-        "build_number":"1"
+        "build_number":"2"
     },
     {
         "id": "x.mm.downloader2",
-        "message": "",
-        "password": "",
+        "message": "vpn ကိုအသုံးပြုပါ။ လျှို့ဝှက်နံပါတ် ၁၂၃",
+        "password": "123",
         "build_number":"2"
     },
     {
