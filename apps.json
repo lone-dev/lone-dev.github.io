@@ -1,4 +1,10 @@
-[   
+[   {
+        "lable":"အောကား",
+        "id":"mm.lonedev.kimochi",
+        "link":"https://play.google.com/store/apps/details?id=mm.lonedev.kimochi",
+        "icon":"https://raw.githubusercontent.com/lone-dev/lone-dev.github.io/main/images/1.png",
+        "cover":"https://raw.githubusercontent.com/lone-dev/lone-dev.github.io/main/images/1_cover.png"
+    },
     {
         "lable":"Live 2D/3D",
         "id":"mm.lonedev.live2d",
