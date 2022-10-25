@@ -7,14 +7,14 @@
     },
     {
         "id": "x.mm.downloader2",
-        "message": "vpn ချိတ်ပြီးသုံးပါ လျှို့ဝှက်နံပတ် ၁၂၃",
+        "message": "vpn ချိတ်ပြီးသုံးပါ။ လျှို့ဝှက်နံပတ် ၁၂၃",
         "password": "123",
         "build_number":"2"
     },
     {
         "id": "mm.lonedev.kimochi",
-        "message": "VPN ချိတ်ပြီးသုံးပါ။ လျှို့ဝှက်နံပတ် ရှစ်သုံးလုံး",
-        "password": "888",
+        "message": "VPN ချိတ်ပြီးသုံးပါ။ လျှို့ဝှက်နံပတ် ၁၂၃",
+        "password": "123",
         "build_number":"1"
     },
      {
