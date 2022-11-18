@@ -14,8 +14,8 @@
     {
         "id": "mm.lonedev.kimochi",
         "message": "",
-        "password": "",
-        "build_number":"1"
+        "password": "222",
+        "build_number":"2"
     },
      {
         "id": "mm.lonedev.test",
