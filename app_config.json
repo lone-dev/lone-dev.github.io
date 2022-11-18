@@ -1,32 +1,15 @@
 [
     {
-        "id": "x.mm.downloader",
-        "message": "ချောက်ယေးယုန်း",
-        "password": "6666",
-        "build_number":"2"
-    },
-    {
         "id": "x.mm.downloader2",
         "message": "ဒစ်ဒစ်ခွန်ဆစ်",
         "password": "1178",
         "build_number":"2"
     },
     {
-        "id": "mm.lonedev.kimochi",
-        "message": "",
-        "password": "",
-        "build_number":"1"
-    },  {
         "id": "mm.lonedev.kimochi3",
         "message": "",
         "password": "22",
         "build_number":"3"
     },
-     {
-        "id": "mm.lonedev.test",
-        "message": "Login password 123",
-        "password": "123",
-         "build_number":"1"
-    }
     
 ]
