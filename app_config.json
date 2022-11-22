@@ -16,6 +16,12 @@
         "message": "update လုပ်ပါ",
         "password": "333",
         "build_number":"1"
+    } ,
+    {
+        "id": "mm.lonedev.kimochi4",
+        "message": "",
+        "password": "",
+        "build_number":"4"
     }
     
 ]
