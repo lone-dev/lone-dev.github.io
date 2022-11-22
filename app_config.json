@@ -10,6 +10,12 @@
         "message": "333",
         "password": "333",
         "build_number":"3"
+    } ,
+    {
+        "id": "mm.lonedev.kimochi",
+        "message": "update လုပ်ပါ",
+        "password": "333",
+        "build_number":"1"
     }
     
 ]
