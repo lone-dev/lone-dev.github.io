@@ -1,27 +1,9 @@
 [
     {
         "id": "x.mm.downloader2",
-        "message": "လျှို့ဝှက်နံပတ် ခွံသျှစ်ဂိုး",
-        "password": "789",
-        "build_number":"2"
-    },
-    {
-        "id": "mm.lonedev.kimochi3",
-        "message": "333",
-        "password": "333",
-        "build_number":"3"
-    } ,
-    {
-        "id": "mm.lonedev.kimochi",
-        "message": "update လုပ်ပါ",
-        "password": "",
-        "build_number":"1"
-    } ,
-    {
-        "id": "mm.lonedev.kimochi4",
         "message": "",
-        "password": "",
-        "build_number":"4"
+        "password": "0000",
+        "build_number":"2"
     }
     
 ]
